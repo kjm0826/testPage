@@ -1,7 +1,8 @@
 {
   "name": "my-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
+  "homepage": "https://github.com/kjm0826/kjm0826.github.io.git",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
